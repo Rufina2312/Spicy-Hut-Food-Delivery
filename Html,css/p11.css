@@ -1,0 +1,24 @@
+.spicy
+{
+    color: crimson;
+}
+#hut
+{
+   font-style: italic;
+   color:darkblue; 
+   overflow:visible;
+}
+#tasty
+{
+    font-style: italic;
+    color:brown
+}
+.fds
+{
+    border: 2px dashed gold;
+    padding: 10px;
+    border-radius:10% 20%;
+    border-top-left-radius:10px;
+    border-width: 10px;
+
+}
